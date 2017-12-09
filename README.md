@@ -1,4 +1,4 @@
-(https://genesisui.com/img/bundle2.png)
+[![Bootstrap Admin Templates Bundle](https://genesisui.com/img/bundle2.png)](https://genesisui.com/bundle.html?support=1)
 
 [More Admin Templates](https://themewagon.com/theme-categories/admin-dashboard/)
 

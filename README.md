@@ -18,8 +18,6 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 [![CoreUI Free Bootstrap Admin Template](http://coreui.io/assets/img/coreui.png "CoreUI Free Bootstrap Admin Template")](http://coreui.io)
 
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/mrholek) to stay up to date with this template.
-
 ## Demo
 
 A fully functional demo is available at [CoreUI](http://coreui.io)
@@ -72,8 +70,10 @@ copyright 2017 creativeLabs Łukasz Holeczek. The code is released under [the MI
 
 You can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI.
 
-## Support CoreUI Development
+## Visit Our Site
 
-CoreUI is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by donating on [PayPal](https://www.paypal.me/holeczek) or buying one of our [premium bootstrap 4 admin templates](https://genesisui.com/?support=1).
+You can see our [Free Templates](https://themewagon.com/theme_tag/free/) or get one of these [high-quality premium templates](https://themewagon.com/theme-categories/premium-templates/).
 
-As of now I am exploring the possibility of working on CoreUI fulltime - if you are a business that is building core products using CoreUI, I am also open to conversations regarding custom sponsorship / consulting arrangements. Get in touch on [Twitter](https://twitter.com/lukaszholeczek).
+## Get in touch on 
+
+[Twitter](https://twitter.com/themewagon), [Facebook](https://www.facebook.com/themewagon/) and [Google+](https://plus.google.com/b/101574507363185229481/)

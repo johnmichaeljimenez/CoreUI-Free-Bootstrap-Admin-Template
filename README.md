@@ -1,5 +1,5 @@
 
-[![More Admin Templates](https://themewagon.com/theme-categories/admin-dashboard/)
+[More Admin Templates](https://themewagon.com/theme-categories/admin-dashboard/)
 
 # CoreUI - Free Bootstrap Admin Template
 
